@@ -1,6 +1,6 @@
 # LDP Visit Videos
 
-This directory contains [LDP](http://ldp.uchicago.edu) visit videos.  
+The `midway.rcc.uchicago.edu:/project/sgsg/ldp/videos` directory contains the [LDP](http://ldp.uchicago.edu) visit videos.  
 
 The collection is organized by our two distinct subject groupings:
 
