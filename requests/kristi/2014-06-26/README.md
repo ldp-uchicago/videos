@@ -12,6 +12,7 @@ I notified Perla and Kristi of their availability and requested notice once they
 Perla needs the `KG_1_07` visit video from `/project/sgsg/ldp/videos/visits/group-1/period-2`:
 
     61
+    64
     65
     72
     73
@@ -36,15 +37,8 @@ Perla needs the `KG_1_07` visit video from `/project/sgsg/ldp/videos/visits/grou
 
 ## Notes
 
-I couldn’t find any `KG_1_07` video files for subject 83.  We have …
+I couldn’t find any `KG_1_07` video files for subject 83.  I copied over the
+`KG_1_06` visits:
 
     83.KG_1_06.T1.mov
     83.KG_1_06.T2.mov
-    83.KG_2_07.T1.mov
-    83.KG_2_07.T2.mov
-    83.KG_2_08.T2.mov
-    83.KG_2_08.T3.mov
-    83.KG_3_07.T1.mov
-    83.KG_3_07.T2.mov
-
-Kristi also included `64.KG_1_08.*` but I couldn't locate any such videos.  I copied over the videos for `64.KG_1_07` as well as `1G_1_08`.
