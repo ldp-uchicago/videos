@@ -17,7 +17,7 @@ We can use this to enable read/write/execute privs for group members on all proj
 
 ---
 
-As Robin wrote ...
+Robin writes ...
 
 The easiest way to accomplish the access level you indicated (sgsg-editors has read/write and everyone else has read only) would be to first ensure /project/sgsg has permissions 770 with pi-sgsg as the group owner (which it does, we we're all good there).  All the members of your group are in the group pi-sgsg so they will all have the ability to get into this top level directory.  Then, what we can do is set all of the sub-folders within /project/sgsg to permissions 775 and set the group ownership to sgsg-editors.  This way, all members of sgsg-editors will get the r/w/x permissions, and everyone else will only get r/x as they will get the "others" permission level (r+x) since they are not members of sgsg-editors, but they are able to get into /project/sgsg since they are members of pi-sgsg.
 

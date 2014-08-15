@@ -6,8 +6,7 @@ The LDP is currently using Midway to store their video archives.  Susan Goldin-M
 
 Note that the project space is currently shared with the [Goldin-Meadow Lab](https://goldin-meadow-lab.uchicago.edu/) headed by SGM: `/project/sgsg/lab`.  (The LDP has provided a portion of the funding for Susan's overall allocation.)  They are using this directory to store [their own video archive](https://github.com/rcc-uchicago/sgm-video-archive).
 
-The LDP would like to make these video archives both discoverable and accessible 
-to a larger research community: linguists, anthropologists, and developmental scientists studying language acquisition, grammaticalization, etc.
+The LDP would like to make these video archives both discoverable and accessible to a larger research community: linguists, anthropologists, and developmental scientists studying language acquisition, grammaticalization, etc.
 
 One of Susan Goldin-Meadow's collaborators, Diane Brentari, is also interested in preserving her sign language video archives and making them accessible in a similar manner.
 

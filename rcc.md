@@ -32,14 +32,3 @@ To check our storage quotas we can use `quota`:
     midway-scratch   USR        32.00 K    1.00 T    5.00 T          1
     project-sgsg     FILESET    42.98 G    5.49 T    6.04 T         67
 
-
-## Contacts
-
-Robin M. Weiss
-Research Programmer
-Research Computing Center
-The University of Chicago
-6030 S. Ellis Ave., Suite 289C
-Chicago, IL 60637
-773.702.9030
-robinweiss@uchicago.edu
